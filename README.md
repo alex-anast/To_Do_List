@@ -7,6 +7,6 @@ This repo will be used,
 Each activity will have 3 states : [🔴 not-started | 🟡 in-progress | 🟢 completed ]
 
 My-To-Do:
-  - 🟡 Accumulating GIT experience [in-progress]
-  - 🔴 Making my own website portfolio [not-started]
-  - 🔴 learning SQL from scratch [not-started]
+  - 🟡 Accumulating GIT experience
+  - 🔴 Making my own website portfolio
+  - 🔴 learning SQL from scratch
