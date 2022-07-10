@@ -12,3 +12,11 @@ My-To-Do:
   - 🔴 Post github in personal social media accounts
   - 🔴 Making my own website portfolio
   - 🔴 learning SQL from scratch
+
+
+{
+This readme file is inside the first ever branch.
+When I will have anything ready, I will update, or better yet,
+MERGE
+with the main branch.
+}
