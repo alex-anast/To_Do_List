@@ -8,5 +8,7 @@ Each activity will have 3 states : [🔴 not-started | 🟡 in-progress | 🟢 c
 
 My-To-Do:
   - 🟡 Accumulating GIT experience
+  - 🔴 Upload past projects in Github profile
+  - 🔴 Post github in personal social media accounts
   - 🔴 Making my own website portfolio
   - 🔴 learning SQL from scratch
